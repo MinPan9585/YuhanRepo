@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      erosion_0: 6502774379069287979
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
