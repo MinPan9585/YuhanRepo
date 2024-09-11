@@ -154,7 +154,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "chasing\u866B 2_0": -3823800705703575114
+      "chasing\u866B 2_1": -1970513754116824923
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
