@@ -1,7 +1,16 @@
 fileFormatVersion: 2
-guid: 8e329e5a20c1aac46b869c1dc72b50b9
+guid: 36101ea029a4035408bd0e4317c0ac6b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7037495563091951794
+    second: blanketbg_0
+  - first:
+      213: 842058434753117486
+    second: blanketbg_1
+  - first:
+      213: -3936841379619019535
+    second: blanketbg_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -95,7 +104,70 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: blanketbg_0
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 329
+        width: 404
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f3485521bc55e90800000000000000
+      internalID: -7037495563091951794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blanketbg_1
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 47
+        width: 185
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2db49b5fa79fab00800000000000000
+      internalID: 842058434753117486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blanketbg_2
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 53
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4efbe9f978d59c0800000000000000
+      internalID: -3936841379619019535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +178,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blanketbg_0: -7037495563091951794
+      blanketbg_1: 842058434753117486
+      blanketbg_2: -3936841379619019535
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
