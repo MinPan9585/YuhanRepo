@@ -490,7 +490,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shake_0: -4229327072008795553
+      shake_1: 6854263378680121715
+      shake_10: 1559002677194837050
+      shake_11: 2123025833664349360
+      shake_12: -5241609845518989051
+      shake_13: -5479828017311103781
+      shake_14: 7425920380695479807
+      shake_15: -3504292551283235285
+      shake_2: 2412856892613413143
+      shake_3: 4505794137887449
+      shake_4: 3118006739149759275
+      shake_5: 8497731305300142844
+      shake_6: -1999411403357856827
+      shake_7: 1957484805107217840
+      shake_8: -7128538310449168053
+      shake_9: -6832808448586046499
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

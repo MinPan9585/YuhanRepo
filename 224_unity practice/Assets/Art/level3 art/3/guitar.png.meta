@@ -154,7 +154,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      guitar_0: -4876614519491423539
+      guitar_1: -5356693247370409494
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

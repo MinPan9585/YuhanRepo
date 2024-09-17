@@ -178,7 +178,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blanketbg_0: -7037495563091951794
+      blanketbg_1: 842058434753117486
+      blanketbg_2: -3936841379619019535
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
