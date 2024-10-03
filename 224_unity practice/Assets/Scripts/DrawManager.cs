@@ -27,7 +27,8 @@ public class DrawManager : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            currentLine.SetPosition(playerTrans.position);
+            if(currentLine != null)
+                currentLine.SetPosition(playerTrans.position);
         }
     }
 

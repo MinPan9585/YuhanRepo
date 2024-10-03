@@ -7,7 +7,7 @@ public class PlayerBite : MonoBehaviour
     float inputX;
     float inputY;
     Rigidbody2D rb;
-    float speed = 5f;
+    public float speed = 5f;
 
     private void Start()
     {
@@ -19,6 +19,7 @@ public class PlayerBite : MonoBehaviour
         inputX = Input.GetAxis("Horizontal");
         inputY = Input.GetAxis("Vertical");
 
-        rb.MovePosition(rb.position + new Vector2(inputX, inputY) * speed * Time.deltaTime);
+        //rb.MovePosition(rb.position + new Vector2(inputX, inputY) * speed * Time.deltaTime);
+        rb.velocity = new Vector2(inputX * speed, inputY * speed);
     }
 }
